@@ -15,7 +15,7 @@
 
 
 # Download
-()
+(https://github.com/Master-s/PS4-Emoji/releases/tag/1.0.2)
 
 # Youtube
 https://youtu.be/cU9LJ355Xvg
