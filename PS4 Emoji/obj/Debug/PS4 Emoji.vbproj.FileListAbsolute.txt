@@ -1,0 +1,13 @@
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\bin\Debug\PS4 Emoji.exe.config
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\bin\Debug\PS4 Emoji.exe
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\bin\Debug\PS4 Emoji.pdb
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\bin\Debug\PS4 Emoji.xml
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\obj\Debug\PS4_Emoji.Form1.resources
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\obj\Debug\PS4_Emoji.Resources.resources
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\obj\Debug\PS4 Emoji.vbproj.GenerateResource.cache
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\obj\Debug\PS4 Emoji.vbproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\obj\Debug\PS4 Emoji.exe
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\obj\Debug\PS4 Emoji.xml
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\obj\Debug\PS4 Emoji.pdb
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\obj\Debug\PS4 Emoji.vbproj.AssemblyReference.cache
+C:\Users\Master\source\repos\PS4 Emoji\PS4 Emoji\obj\Debug\PS4_Emoji.About.resources
